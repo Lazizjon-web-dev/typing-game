@@ -1,0 +1,3 @@
+<template>
+  Typing Game
+</template>
